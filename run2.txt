@@ -1,0 +1,12 @@
+git init
+git config --global user.name 'vsagar-cse220558'
+git config --global user.email 'vsagar_cse220558@mgit.ac.in'
+git config user.name
+git config user.email
+ls
+git status
+git add .
+git status
+git commit -m 'save'
+git remote add origin https://github.com/vsagar-cse220558/Lab
+git push origin master
